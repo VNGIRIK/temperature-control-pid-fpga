@@ -1,3 +1,4 @@
+
 # Temperature Control System using PID and FPGA
 
 This repository contains all codes, models, and documentation for my ongoing internship project on designing a temperature control system using PID control implemented via FPGA and microcontroller components.
@@ -27,6 +28,7 @@ This repository contains all codes, models, and documentation for my ongoing int
 - Closed-loop temperature control using PID
 - Real-time sensor feedback to microcontroller or FPGA
 - Integration with Simulink for model testing
+![Circuit diagram Arduino](https://github.com/user-attachments/assets/7aa8e846-da35-4e9b-b147-cd7cfc5f0a8e)
 
 ## Author
 **Haobijam Vivekanandagiri** – Internship Project at 
