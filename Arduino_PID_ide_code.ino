@@ -1,5 +1,5 @@
-const int INPUT_PIN = A0;     // Analog pin for temperature sensor
-const int OUTPUT_PIN = 3;     // PWM pin (e.g., connected to heater or fan)
+const int INPUT_PIN = A0;     // Analog pin for temperature 
+const int OUTPUT_PIN = 3;     // PWM pin 
 
 double kp = 0.8;
 double ki = 0.20;
