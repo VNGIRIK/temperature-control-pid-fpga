@@ -1,3 +1,4 @@
+![PID schematic](https://github.com/user-attachments/assets/2f4aa96f-7755-4964-ba28-64d042d91d06)
 
 # Temperature Control System using PID and FPGA
 
